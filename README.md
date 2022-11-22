@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @sudosuraz
-- 👀 I’m interested in OSCP
-- 🌱 I’m currently learning PYTHON FOR H4CK3RS
-- 💞️ I’m looking to collaborate on SOME PYTHON PROJECTS
 
-<!---
-sudosuraz/sudosuraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+
+
+[![Twitter](https://img.shields.io/badge/-@xnl__h4ck3r-%232B90D9?style=for-the-badge&logo=twitter&logoColor=white&label=twitter)](https://twitter.com/sudosuraj)&nbsp;
+
+<link rel="me" href="https://instagram.com/sudosuraj">
+<a rel="me" href="https://instagram.com/sudosuraj">&nbsp;</a>
+</div>
