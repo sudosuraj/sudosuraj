@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
 <h3 align="center">A weirdo security nerd, also known as sudosuraj in the world of cyber security ;)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudosuraz&label=Profile%20views&color=000000&style=plastic" alt="sudosuraz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudosuraz&label=Profile%20views&color=000000&style=plastic" alt="sudosuraz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudosuraz" alt="sudosuraz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudosuraz" alt="sudosuraz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sudosuraj" target="blank"><img src="https://img.shields.io/twitter/follow/sudosuraj?logo=twitter&style=for-the-badge" alt="sudosuraj" /></a> </p><br><br>
+<p align="left"> <a href="https://twitter.com/sudosuraj" target="blank"><img src="https://img.shields.io/twitter/follow/sudosuraj?logo=twitter&style=for-the-badge" alt="sudosuraj" /></a> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
