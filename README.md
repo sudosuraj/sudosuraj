@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudosuraz" alt="sudosuraz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sudosuraj" target="blank"><img src="https://img.shields.io/twitter/follow/sudosuraj?logo=twitter&style=for-the-badge" alt="sudosuraj" /></a> </p><br><br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sudosuraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudosuraj" height="30" width="40" /></a>
@@ -14,14 +15,15 @@
 <a href="https://medium.com/@sudosuraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudosuraj" height="30" width="40" /></a>
 </p><br>
 <div>
+  <hr>
 <h3 align="left">Buy Me A Book :)</h3>
 <p><a href="https://www.buymeacoffee.com/sudosuraz" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" />
 </a>
 </p>
 </div>
-<br>
+<hr>
 <div>
-<p><h3>Curret GithHub Status</h3></p>
+<p><h3 text-align="left">Curret GithHub Status</h3></p>
 </div> <br>
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosuraz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudosuraj" /></p>
