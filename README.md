@@ -13,14 +13,13 @@
 <a href="https://linkedin.com/in/sudosuraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudosuraj" height="30" width="40" /></a>
 <a href="https://instagram.com/sudosuraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudosuraj" height="30" width="40" /></a>
 <a href="https://medium.com/@sudosuraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudosuraj" height="30" width="40" /></a>
-</p><br>
+</p>
 <div>
   <hr>
 <h3 align="left">Buy Me A Book :)</h3>
 <p><a href="https://www.buymeacoffee.com/sudosuraz" target="_blank"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" />
 </p>
 </div>
-  <br>
 <hr>
 <div>
 <p><h3 text-align="left">Curret GithHub Status</h3></p>
