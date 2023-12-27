@@ -17,10 +17,10 @@
 <div>
   <hr>
 <h3 align="left">Buy Me A Book :)</h3>
-<p><a href="https://www.buymeacoffee.com/sudosuraz" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" />
-</a>
+<p><a href="https://www.buymeacoffee.com/sudosuraz" target="_blank"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" />
 </p>
 </div>
+  <br>
 <hr>
 <div>
 <p><h3 text-align="left">Curret GithHub Status</h3></p>
