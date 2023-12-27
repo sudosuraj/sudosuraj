@@ -16,10 +16,10 @@
 </p><br><br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sudosuraz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sudosuraz" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" /></a></p><br><br>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosuraz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudosuraj" /></p>
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudosuraz&show_icons=true&theme=dark&locale=en" alt="sudosuraj" /></p>
-
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosuraz&theme=dark" alt="sudosuraj" /></p>
