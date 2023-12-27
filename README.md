@@ -21,8 +21,8 @@
 </div>
 <br>
 <div>
-<p><h3 align="left">Curret GithHub Status</h3></p>
-</div>
+<p><h3>Curret GithHub Status</h3></p>
+</div> <br>
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosuraz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudosuraj" /></p>
 </div>
