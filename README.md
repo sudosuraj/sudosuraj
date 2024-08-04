@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
 <h3 align="center">A weirdo security nerd, also known as sudosuraj in the world of cyber security ;)</h3>
 
-![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+<center> ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)</center>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudosuraz&label=Profile%20views&color=000000&style=plastic" alt="sudosuraz" /> </p>
 
