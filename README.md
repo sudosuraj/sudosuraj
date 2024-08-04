@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
 <h3 align="center">A weirdo security nerd, also known as sudosuraj in the world of cyber security ;)</h3>
 
-<center> ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)</center>
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudosuraz&label=Profile%20views&color=000000&style=plastic" alt="sudosuraz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudosuraz&label=Profile%20views&color=000000&style=plastic" alt="sudosuraz" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudosuraz" alt="sudosuraz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudosuraz" alt="sudosuraz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sudosuraj" target="blank"><img src="https://img.shields.io/twitter/follow/sudosuraj?logo=twitter&style=for-the-badge" alt="sudosuraj" /></a> </p>
 <hr>
@@ -27,11 +27,11 @@
 <p><h3 text-align="left">Curret GithHub Status</h3></p>
 </div> <br>
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosuraz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudosuraj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosuraz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudosuraj" /></p>
 </div>
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudosuraz&show_icons=true&theme=dark&locale=en" alt="sudosuraj" /></p>
 </div>
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosuraz&theme=dark" alt="sudosuraj" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosuraz&theme=dark" alt="sudosuraj" /></p>
 </div>
