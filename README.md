@@ -3,9 +3,9 @@
 
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudosuraz&label=Profile%20views&color=000000&style=plastic" alt="sudosuraz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudosuraj&label=Profile%20views&color=000000&style=plastic" alt="sudosuraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudosuraz" alt="sudosuraz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudosuraj" alt="sudosuraj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sudosuraj" target="blank"><img src="https://img.shields.io/twitter/follow/sudosuraj?logo=twitter&style=for-the-badge" alt="sudosuraj" /></a> </p>
 <hr>
@@ -19,7 +19,7 @@
 <div>
   <hr>
 <h3 align="left">Buy Me A Book :)</h3>
-<p><a href="https://www.buymeacoffee.com/sudosuraz" target="_blank"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" />
+<p><a href="https://www.buymeacoffee.com/sudosuraj" target="_blank"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudosuraj" />
 </p>
 </div>
 <hr>
@@ -27,11 +27,11 @@
 <p><h3 text-align="left">Curret GithHub Status</h3></p>
 </div> <br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosuraz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudosuraj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosuraj&show_icons=true&theme=dark&locale=en&layout=compact" alt="sudosuraj" /></p>
 </div>
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudosuraz&show_icons=true&theme=dark&locale=en" alt="sudosuraj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudosuraj&show_icons=true&theme=dark&locale=en" alt="sudosuraj" /></p>
 </div>
 <div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosuraz&theme=dark" alt="sudosuraj" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosuraj&theme=dark" alt="sudosuraj" /></p>
 </div>
