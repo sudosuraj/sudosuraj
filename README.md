@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
 <h3 align="center">just a cybersecurity tech.</h3>
 <p align="center">
-<img text-align="center" src="https://github.com/user-attachments/assets/1ee03973-ef04-46f4-a29c-32201d41c9c5">
+
+<img text-align="center" src="https://github.com/user-attachments/assets/6f1f2e67-339d-4da3-9bd6-c41ee0920919">
 
 <hr>
 <h3>CTF Profile</h3>
